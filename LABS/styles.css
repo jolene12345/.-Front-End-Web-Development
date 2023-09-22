@@ -1,0 +1,17 @@
+
+/* use . to access class
+use # to access id
+use nothing to access normal tags 
+
+classes more common than ids */ 
+
+
+body{
+    background-color: brown;
+    text-align: center;
+}
+
+#paragraph{
+    text-align: right;
+}
+
