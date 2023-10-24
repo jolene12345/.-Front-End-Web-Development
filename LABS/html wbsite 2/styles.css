@@ -1,0 +1,86 @@
+
+/* use . to access class
+use # to access id
+use nothing to access normal tags 
+
+classes more common than ids */ 
+
+
+body{
+    background-image:url(https://video-images.vice.com/articles/5cc73f4b0364430008e0af16/lede/1556564257382-meangirls7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+#navbar{
+    background-color: lightpink;
+    opacity: .8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nav{
+    margin:0 10px 20px 50px;
+}
+
+.section-3{
+    margin-top: 350px;
+    background-color: pink;
+    padding: 0px;
+}
+
+#panel{
+    opacity: .9;
+    margin: 0 0 0 200px;
+    /* color: #ffffff80; */
+}
+
+
+
+h5{
+    color: black;
+    opacity: 1;
+}
+
+
+#cady{
+    margin: 0px 100px 50px 150px;
+}
+
+
+
+#char{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#panelcady{
+    width:600px;
+    font-size: larger;
+}
+#titlecady{
+    text-decoration-line: underline;
+    text-decoration-color: white;
+}
+
+img{
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(https://freepngimg.com/save/174409-border-frame-pic-fuchsia-free-clipart-hd/512x396) 30 round;
+}
+
+
+#panelregina{
+    font-size: larger;
+}
+
+
+#divline{
+    max-width: 77%;
+    margin:500px 0 0 0px;
+} 
+
+footer{
+    background-color: pink;
+    
+}
